@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Relational_network</string>
+    <string name="title_home">主页</string>
+    <string name="title_dashboard">小助手</string>
+    <string name="title_notifications">通知</string>
+    <string name="title_home_add">添加信息</string>
+
+    <string name="iadd_head_img">照片</string>
+    <string name="iadd_name">名字</string>
+    <string name="iadd_gender">性别</string>
+    <string name="iadd_age">生日</string>
+    <string name="iadd_nationality">民族</string>
+    <string name="iadd_height">身高</string>
+    <string name="iadd_weight">体重</string>
+    <string name="iadd_identity">身份</string>
+    <string name="iadd_number">联系电话</string>
+    <string name="textview">请输入内容</string>
+</resources>
